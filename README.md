@@ -93,8 +93,6 @@ In conclusion, our analysis is not just about numbers; it's about weaving storie
 
 ---
 
-This storytelling approach in the insights section adds a narrative element to your README, making it more engaging and relatable for readers.
-
 These insights offer valuable information to the bank for crafting targeted strategies to reduce customer churn, enhance customer retention, and optimize business operations.
 
 ---
