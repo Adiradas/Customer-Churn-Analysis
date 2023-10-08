@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 Bank Data
 
-Certainly! Let's elaborate on the entire README file for your customer churn analysis project in GitHub.
+Let's elaborate on the entire README file for my customer churn analysis project in GitHub.
 
 ---
 
